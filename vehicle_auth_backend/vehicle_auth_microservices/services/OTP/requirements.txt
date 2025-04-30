@@ -1,0 +1,5 @@
+flask
+pymongo
+requests
+flask-cors
+backports.zoneinfo; python_version < "3.9"
